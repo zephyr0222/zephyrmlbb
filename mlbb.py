@@ -37,11 +37,11 @@ ll = '''\033[1;33m
 a = "*.unity3d"
 s = " "
 #a
-p = "/Art/android/"
+p = "/android/Art"
 #ui
-u = "/UI/android/"
+u = "android/UI"
 #audio
-au = "/Audio/android/"
+au = "/android/Audio"
 
 b = "/storage/emulated/0/"
 c = "/storage/emulated/0/Android/data/com.mobile.legends/files/dragon2017/assets"
