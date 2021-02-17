@@ -10,7 +10,7 @@ w = '''
 	    *****************************
 	            \ Created By /
 	             ------------
-	                3DM4RK
+	                test1
                  
     '''
 role = '''
@@ -38,6 +38,8 @@ a = "*.unity3d"
 s = " "
 #a
 p = "/Art/android/"
+
+
 #ui
 u = "/UI/android/"
 #audio
@@ -99,7 +101,7 @@ def main():
 	#fn = input("Enter Skin Folder Name: ")
 	sounds = input("Does File contain Audio Folder [y/n]: ")
 	#art
-	os.system("cp " + file + p + a + s + c + p)
+	os.system("cp " + file + c + p)
 	#ui
 	
 	os.system("cp " + file + u + a + s + c + u)
