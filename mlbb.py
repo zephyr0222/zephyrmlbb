@@ -10,7 +10,7 @@ w = '''
 	    *****************************
 	            \ Created By /
 	             ------------
-	                Dominic 
+	                3DM4RK
                  
     '''
 role = '''
@@ -37,11 +37,11 @@ ll = '''\033[1;33m
 a = "*.unity3d"
 s = " "
 #a
-p = "/android/Art"
+p = "/Art/android/"
 #ui
-u = "android/UI"
+u = "/UI/android/"
 #audio
-au = "/android/Audio"
+au = "/Audio/android/"
 
 b = "/storage/emulated/0/"
 c = "/storage/emulated/0/Android/data/com.mobile.legends/files/dragon2017/assets"
